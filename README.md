@@ -1,7 +1,7 @@
 # DEPI-TEAM
 Here is Our DEPI Project For Round 2
 
-## Team Memmbers
+## Team Members
 
 1- Ahmed Ellaban (Team Leader)
 
